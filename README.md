@@ -1,3 +1,7 @@
+Sistema de gerenciamento de conteúdo
+
+Neste módulo, vamos construir um aplicativo frontend que irá utlizar duas APIs externas. Stripe para autenticação e pagamentos e Prismic CMS para inserção de conteúdo dentro do aplicativo Ig.News
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
